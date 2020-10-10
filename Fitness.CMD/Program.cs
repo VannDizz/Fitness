@@ -12,7 +12,12 @@ namespace Fitness.CMD
     {
         static void Main(string[] args)
         {
-            //User user = new User("Yuriy",,,,);
+            Console.WriteLine("Вас приветствует Фитнес приложение!");
+            Console.WriteLine("Введите имя пользователя:");
+
+
+
+
         }
     }
 }
